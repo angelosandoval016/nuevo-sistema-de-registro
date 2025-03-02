@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ````npm install react```` (accion o instruccion con material grafico)
+
+Nuevo Sistema de Registro 2
